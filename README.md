@@ -1,19 +1,22 @@
-# GSM Player Album Art Fork
+## 2358 Readme
 
-[ 2358 Notes ]
+[ NOTES ]
 - Updated repo from fork [benwiley4000/gsmplayer-gba](https://github.com/benwiley4000/gsmplayer-gba) to take advantage of the UI implementation.
 - Modified `GO.bat` a bit: Added a feature to download `ffmpeg.exe` directly into the project if it does not already exist only to realise that this fork [Yew12347/gsmplayer-gba](https://github.com/Yew12347/gsmplayer-gba) had already implemented the same idea.
 
-
 [ TODO ]
 - fix/improve: song sorting refer to: [New revision to GSM Music Player with fresh UI](https://gbatemp.net/threads/new-revision-to-gsm-music-player-with-fresh-ui.660439/post-10665045) (already WIP)
-
 
 [ IDEAS ]
 - easier way to add album info: prompt user for album name, artist name etc and generate `album_info.h`
 - allow user to drop all files needed: image art, songs, album info text into 1 folder then the script picks from there instead of adding different files into different folders...
 - add option to use dark or light mode (for background art but then need to invert the font...)
 
+
+
+## benwiley4000 Readme
+
+# GSM Player Album Art Fork
 
 ## Original GSM Player UI
 
